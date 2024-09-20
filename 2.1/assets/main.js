@@ -1,11 +1,7 @@
-
-
 console.error('error')
 
 let X = 10
 const Y = 5 
-
-
 
 let nombre = "MADRA"
 
