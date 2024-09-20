@@ -1,1 +1,1 @@
-alert()
+alert(hola, desde, la, del, papu)
