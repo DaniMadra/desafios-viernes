@@ -1,0 +1,49 @@
+body {
+    color: goldenrod;
+    background-color: white;
+    margin: 30px;
+}
+
+.link-allboys a {
+    color: aliceblue;
+}
+
+main {
+    margin: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+    margin: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 30px;
+}
+
+li{
+    display: inline-block;
+    
+}
+
+h3{
+    color: black;
+}
+
+main{
+    text-align: center;
+}
+
+.imagen_principal{
+    width: 800px;
+}
+
+ 
