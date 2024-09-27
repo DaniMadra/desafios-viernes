@@ -3,7 +3,7 @@ const nombreProducto = "Billetera";
 let precioUnidad = 28000; 
 
 
-let cantidadDeseada = prompt("¿Cuántas unidades de " + nombreProducto + " quiere comprar?");
+let cantidadDeseada =parseInt(prompt("¿Cuántas unidades de " + nombreProducto + " quiere comprar?"));
 
 
 let costoTotal = precioUnidad * cantidadDeseada;
