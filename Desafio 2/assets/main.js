@@ -1,5 +1,5 @@
 
-let nombreProducto = "Billetera";
+const nombreProducto = "Billetera";
 let precioUnidad = 28000; 
 
 
